@@ -1,0 +1,30 @@
+.addbtn {
+  width: 25%;
+  max-width: 360px;
+  position: relative;
+  top: -50px;
+  left: 75%
+}
+.applybtn {
+  position: relative;
+  margin-left: 15%;
+  top: -35px;
+  left: 68%;
+  width: 25%;
+  max-width: 28vh;
+}
+.gutter-row{
+  width: 75%;
+  margin-left: 55px;
+}
+.gutter-col{
+  width: 10%;
+  max-width: 25vh;
+  margin-left: 25px;
+}
+.filter-text{
+  position: relative;
+  right: 30%;
+  font-weight: 800;
+  color: blue;
+}
